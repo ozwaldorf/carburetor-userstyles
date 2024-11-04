@@ -22,7 +22,7 @@
 To request a website to be themed, please create a [Port Request](https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests) discussion on [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin). While this may seem odd, this ensures to keep all of our requests in one place and makes it easier for all people to request what they want without needing to learn what "Stylus" exactly is.
 
 **If you have already created a userstyle, please raise a
-[Pull Request](https://github.com/catppuccin/userstyles/compare)!**
+[Pull Request](https://github.com/ozwaldorf/carburetor-userstyles/compare)!**
 
 &nbsp;
 
@@ -52,5 +52,5 @@ To create a userstyle, follow the instructions below. If you run into any diffic
    - Use [Catwalk](https://github.com/catppuccin/catwalk) to generate a
      composite or grid image of all the images. **This must be saved as
      `styles/<name-of-website>/preview.webp`.**
-8. Raise a [pull request](https://github.com/catppuccin/userstyles/compare),
+8. Raise a [pull request](https://github.com/ozwaldorf/carburetor-userstyles/compare),
    making sure to read and fill out the template properly. The title of your pull request should follow the format of `feat(<port-name>): init`.

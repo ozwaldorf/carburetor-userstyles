@@ -1,16 +1,16 @@
 .dark {
-  --accent: #babbf1; /* lavender */
-  --green: #a6d189; /* green */
-  --text: #c6d0f5; /* text */
-  --foreground: #232634; /* crust */
-  --background: #303446; /* base */
-  --outside: #232634; /* crust */
-  --post: #232634; /* crust */
+  --accent: #be95ff; /* lavender */
+  --green: #42be65; /* green */
+  --text: #f4f4f4; /* text */
+  --foreground: #000000; /* crust */
+  --background: #161616; /* base */
+  --outside: #000000; /* crust */
+  --post: #000000; /* crust */
   --panel-border: none;
-  --highlighted: #414559; /* surface0 */
-  --visited: #737994; /* overlay0 */
+  --highlighted: #262626; /* surface0 */
+  --visited: #6f6f6f; /* overlay0 */
   --shadow: 0 0 0 transparent;
 
-  --nsfw: #ef9f76; /* peach */
-  --admin: #ea999c; /* maroon */
+  --nsfw: #fe832b; /* peach */
+  --admin: #ff8389; /* maroon */
 }
