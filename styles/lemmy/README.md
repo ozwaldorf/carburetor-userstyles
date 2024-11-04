@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/lemmy/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-
-
 ## 💝 Current Maintainer
 - [Gandalf the Blue](https://github.com/Gandalf-the-Blue)
 

@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/phanpy/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-
-
 ## 💝 Current Maintainer
 - [Guaxinim5573](https://github.com/Guaxinim5573)
 

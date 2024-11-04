@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/syncthing/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-## Usage
-> [!NOTE]
 > This theme is designed to be used with the default WebGUI and default theme provided by Syncthing. This does not theme syncthing.net.
 
 

@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/twitter/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-## Usage
-> [!NOTE]
 > Set Twitter's built-in theme to **Lights out** with the blue accent. Also requires the [:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has) selector.
 
 

@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/proton/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-## Usage
-> [!NOTE]
 > Set Proton Mail's built-in theme to 'Snow' if you're using Latte or 'Carbon' if you're using the others.
 
 

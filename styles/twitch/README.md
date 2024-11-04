@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/twitch/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-
-
 ## 💝 Current Maintainers
 - [GitMuslim](https://github.com/GitMuslim)
 - [uncenter](https://github.com/uncenter)

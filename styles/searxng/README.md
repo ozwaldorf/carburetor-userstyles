@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/searxng/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-
-
 ## 💝 Current Maintainers
 - [Sekki](https://github.com/Sekki21956)
 - [Ryan Cao](https://github.com/ryanccn)

@@ -14,9 +14,6 @@
 </p>
 
 
-## Usage
-Switch to a default GitHub light/dark theme via **Settings** > **Appearance** for the best experience!
-
 
 ## 💝 Current Maintainer
 - [uncenter](https://github.com/uncenter)

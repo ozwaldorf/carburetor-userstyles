@@ -14,9 +14,6 @@
 </p>
 
 
-## Usage
-Switch to a default Lichess light/dark theme via **Username** > **Background** for the best experience!
-
 
 ## 💝 Current Maintainer
 - [coopw](https://github.com/coopw1)

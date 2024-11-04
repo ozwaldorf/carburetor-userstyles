@@ -14,9 +14,6 @@
 </p>
 
 
-## Usage
-Switch to the default dark theme via the **Settings** > **Themes** > **View all** for the best experience!
-
 
 ## 💝 Current Maintainer
 - [uncenter](https://github.com/uncenter)

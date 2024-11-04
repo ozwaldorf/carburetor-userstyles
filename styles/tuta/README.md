@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/tuta/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-## Usage
-> [!NOTE]
 > Set Tuta's built-in theme to either **light** if you're using Latte or **dark** if you're using the others.
 
 

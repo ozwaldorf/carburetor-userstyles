@@ -1,8 +1,5 @@
 <h3 align="center">
 Carburetor Userstyles
-</h3>
-
-<h6 align="center">
   <a href="#%EF%B8%8F-install">Install</a>
   ·
   <a href="#-contributing">Contributing</a>
@@ -13,16 +10,6 @@ Carburetor Userstyles
 
 <p align="center">
 This repository is a curated collection of customized themes designed for various websites and web applications.
-These themes showcase delightful pastel colors, creating a soothing and visually pleasing experience when browsing the web.
-</p>
-
-<p align="center">
-<strong>Userstyles are essentially modified CSS files which can be applied to a specific website,
-giving it a unique and appealing aesthetic in line with Catppuccin's color palette.</strong>
-</p>
-
-&nbsp;
-
 ## Usage
 
 For both of the below installation methods, you will need the Stylus browser extension installed. Install [Stylus](https://github.com/openstyles/stylus) for [Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/). If you use Chrome, make sure to enable "Allow access to file URLs" in the Chrome extension settings for Stylus (visit `chrome://extensions/?id=clngdbkpkpeebahjckkjfobafhncgmne`).

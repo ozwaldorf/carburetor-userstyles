@@ -14,9 +14,6 @@
 </p>
 
 
-## Usage
-Make sure to use the default **Teal** theme from the built-in color picker (located at the bottom of the page) for the best experience!
-
 
 ## 💝 Current Maintainer
 - [rockquiet](https://github.com/rockquiet)

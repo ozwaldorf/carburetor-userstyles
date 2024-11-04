@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/startpage/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-
-
 ## 🚧 Looking for Maintainers 🚧
 - If you are interested in maintaining this userstyle, please raise a **Pull Request** and add yourself into the `current-maintainers` array in the `userstyles.yml` file.
 

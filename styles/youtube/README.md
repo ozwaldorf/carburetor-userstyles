@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/youtube/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
-
-
-## 🙋 FAQ
 - Q: **What does the 'Enable for black bars' option mean?**\
   A: It's available in case you have an OLED display. If you have one, you might want to enable this.
 
