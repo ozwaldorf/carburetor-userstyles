@@ -1,13 +1,13 @@
 # userstyles.yml
 
-The [`userstyles.yml`](https://github.com/catppuccin/userstyles/tree/main/scripts/userstyles.yml) file is responsible for tracking all userstyle and maintainer metadata.
+The [`userstyles.yml`](https://github.com/ozwaldorf/carburetor-userstyles/tree/main/scripts/userstyles.yml) file is responsible for tracking all userstyle and maintainer metadata.
 
 - [Adding a new userstyle](#adding-a-new-userstyle)
 - [Adding yourself as a maintainer](#adding-yourself-as-a-maintainer)
 - [Removing yourself as a maintainer](#removing-yourself-as-a-maintainer)
 
 > [!TIP]
-> The [`userstyles.schema.json`](https://github.com/catppuccin/userstyles/tree/main/scripts/userstyles.schema.json) file is the schema specification for `userstyles.yml`. Please refer to it for clarification.
+> The [`userstyles.schema.json`](https://github.com/ozwaldorf/carburetor-userstyles/tree/main/scripts/userstyles.schema.json) file is the schema specification for `userstyles.yml`. Please refer to it for clarification.
 
 ## Adding a new userstyle
 
