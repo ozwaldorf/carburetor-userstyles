@@ -7,7 +7,7 @@ For both of the below installation methods, you will need the Stylus browser ext
 
 ## All Userstyles
 
-1. Download the compiled Stylus export file, containing our recommended Stylus settings and all userstyles preloaded: [`import.json` (download)](https://github.com/catppuccin/userstyles/releases/download/all-userstyles-export/import.json).
+1. Download the compiled Stylus export file, containing our recommended Stylus settings and all userstyles preloaded: [`import.json` (download)](https://github.com/ozwaldorf/carburetor-userstyles/releases/download/all-userstyles-export/import.json).
    - Alternatively, if you want to further customize the `import.json` file - such as setting it so that all userstyles have the accent color `peach`, or the dark flavor is always `frappe` - you can download a customized Stylus export file from [@uncenter](https://github.com/uncenter)'s "[Catppuccin Userstyles Customizer](https://catppuccin-userstyles-customizer.uncenter.dev/)" instead.
 2. Open the Stylus "manage" page.
 3. On the sidebar panel, click the **Import** button in the **Backup** section, and select the downloaded file from step 1.
@@ -15,7 +15,7 @@ For both of the below installation methods, you will need the Stylus browser ext
 ## Individual Userstyles
 
 1. Enable CSP Patching from Stylus's **Settings** > **Advanced**.
-2. Install your choice of [available userstyles](https://github.com/catppuccin/userstyles#-userstyles) by clicking the **Stylus Install** badge in each README.
+2. Install your choice of [available userstyles](https://github.com/ozwaldorf/carburetor-userstyles#-userstyles) by clicking the **Stylus Install** badge in each README.
 
 # Configuration
 

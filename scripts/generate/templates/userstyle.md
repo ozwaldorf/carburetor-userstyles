@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3A{{ slug }}"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/{{ slug }}?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/{{ slug }}/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://github.com/ozwaldorf/carburetor-userstyles/issues?q=is%3Aissue+is%3Aopen+label%3A{{ slug }}"><img src="https://img.shields.io/github/issues/ozwaldorf/carburetor-userstyles/{{ slug }}?colorA=21272a&colorB=fe832b&style=for-the-badge"></a>
+	<a href="https://raw.githubusercontent.com/ozwaldorf/carburetor-userstyles/main/styles/{{ slug }}/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-d4bbff?colorA=21272a&style=for-the-badge"></a>
 </p>
 
 ## Usage
