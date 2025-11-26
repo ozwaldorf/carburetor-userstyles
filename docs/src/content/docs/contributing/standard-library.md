@@ -3,7 +3,7 @@ title: Standard Library
 description: Reference to using the standard library.
 ---
 
-The standard library is a collection of mixins to simplify and prevent redundant code in userstyles. The source code is at [`lib/lib.less`](https://github.com/catppuccin/userstyles/blob/main/lib/lib.less) and the library is hosted at https://userstyles.catppuccin.com/lib/lib.less.
+The standard library is a collection of mixins to simplify and prevent redundant code in userstyles. The source code is at [`lib/lib.less`](https://github.com/ozwaldorf/carburetor-userstyles/blob/main/lib/lib.less) and the library is hosted at https://userstyles.catppuccin.com/lib/lib.less.
 
 In userstyles, the standard library is imported at the top like so (along with other [library modules](/contributing/library-modules/)):
 

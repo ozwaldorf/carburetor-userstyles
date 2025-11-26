@@ -4,18 +4,15 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin for <a href="https://www.linkedin.com">LinkedIn</a>
+  Carburetor for <a href="https://www.linkedin.com">LinkedIn</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Alinkedin"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/linkedin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/linkedin/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://github.com/ozwaldorf/carburetor-userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Alinkedin"><img src="https://img.shields.io/github/issues/ozwaldorf/carburetor-userstyles/linkedin?colorA=21272a&colorB=fe832b&style=for-the-badge"></a>
+	<a href="https://raw.githubusercontent.com/ozwaldorf/carburetor-userstyles/main/styles/linkedin/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-d4bbff?colorA=21272a&style=for-the-badge"></a>
 </p>
 
-## Usage
-
-See [the userstyle usage instructions](https://userstyles.catppuccin.com/getting-started/usage/).
 
 
 ## ❤️‍🩹 Unmaintained

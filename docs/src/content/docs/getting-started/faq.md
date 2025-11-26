@@ -7,7 +7,7 @@ sidebar:
 
 ## This userstyle is broken!
 
-Sorry to hear that! Please [open an issue](https://github.com/catppuccin/userstyles/issues/new?template=userstyle.yml).
+Sorry to hear that! Please [open an issue](https://github.com/ozwaldorf/carburetor-userstyles/issues/new?template=userstyle.yml).
 
 ## Can I request a userstyle?
 

@@ -19,11 +19,11 @@ Start by filling out the "metadata block" at the very top of the template. Repla
 ```less
 /* ==UserStyle==
 @name example.org Catppuccin
-@namespace github.com/catppuccin/userstyles/styles/example.org
-@homepageURL https://github.com/catppuccin/userstyles/tree/main/styles/example.org
+@namespace github.com/ozwaldorf/carburetor-userstyles/styles/example.org
+@homepageURL https://github.com/ozwaldorf/carburetor-userstyles/tree/main/styles/example.org
 @version 2000.01.01
-@updateURL https://github.com/catppuccin/userstyles/raw/main/styles/example.org/catppuccin.user.less
-@supportURL https://github.com/catppuccin/userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Aexample.org
+@updateURL https://github.com/ozwaldorf/carburetor-userstyles/raw/main/styles/example.org/catppuccin.user.less
+@supportURL https://github.com/ozwaldorf/carburetor-userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Aexample.org
 @description Soothing pastel theme for example.org
 @author Catppuccin
 @license MIT
@@ -114,11 +114,11 @@ Combining all of the previous steps, we have a working userstyle!
 ```less
 /* ==UserStyle==
 @name example.org Catppuccin
-@namespace github.com/catppuccin/userstyles/styles/example.org
-@homepageURL https://github.com/catppuccin/userstyles/tree/main/styles/example.org
+@namespace github.com/ozwaldorf/carburetor-userstyles/styles/example.org
+@homepageURL https://github.com/ozwaldorf/carburetor-userstyles/tree/main/styles/example.org
 @version 2000.01.01
-@updateURL https://github.com/catppuccin/userstyles/raw/main/styles/example.org/catppuccin.user.less
-@supportURL https://github.com/catppuccin/userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Aexample.org
+@updateURL https://github.com/ozwaldorf/carburetor-userstyles/raw/main/styles/example.org/catppuccin.user.less
+@supportURL https://github.com/ozwaldorf/carburetor-userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Aexample.org
 @description Soothing pastel theme for example.org
 @author Catppuccin
 @license MIT
